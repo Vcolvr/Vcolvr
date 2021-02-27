@@ -1,7 +1,9 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vcolvr/)](https://www.linkedin.com/in/fVcolvr/)
+
 ### - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot.
 ### - 😄 Pronouns: He/Him.
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vcolvr)](https://github.com/Vcolvr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vcolvr/)](https://www.linkedin.com/in/vcolvr/)
 <!--
 **Vcolvr/Vcolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
