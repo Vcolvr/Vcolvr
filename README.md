@@ -13,6 +13,11 @@
 ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Vcolvr)](https://github.com/Vcolvr)
 ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
+
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vcolvro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessicacordeiro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div>
 <!--
 **Vcolvr/Vcolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
