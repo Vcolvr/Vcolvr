@@ -1,6 +1,6 @@
 # Hello There!👾
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at brazil.generation.org
-- 👨‍💻 Pronouns: He/Him.
+- 👨‍💻 Pronouns: He/Him/His.
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcovlr@gmail.com)](mailto:vcolvr@gmail.com) <a href="https://www.linkedin.com/in/vcolvr/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
