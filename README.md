@@ -7,6 +7,7 @@
 # Projects
 - <a href="https://natureba.herokuapp.com/paginaInicial">🌿Natureba (API REST)💅</a>
 - <a href="">♟️ChessGame on GitBash♟️</a>
+-  <a href="">💰DSVendas - PostgreSQL dataBase💸</a>
 
 # Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
 <img align="right" width="260px" src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif?itemid=12747764">
