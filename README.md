@@ -1,6 +1,6 @@
 # Hello There!👾
 - 🌱 Graduated at Generation Brazil as a Java Junior Developer
-- 🌿 Currently learning through Digital Innovation One bootcamps
+- 🌿 Currently learning through Digital Innovation One everis bootcamp
 - 👨‍💻 Pronouns: He/Him/His.
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcovlr@gmail.com)](mailto:vcolvr@gmail.com) <a href="https://www.linkedin.com/in/vcolvr/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
