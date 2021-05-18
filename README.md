@@ -1,5 +1,6 @@
 # Hello There!👾
-- 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at brazil.generation.org
+- 🌱 Graduated at Generation Brazil as a Java Junior Developer
+- 🌿 Currently learning through Digital Innovation One bootcamps
 - 👨‍💻 Pronouns: He/Him/His.
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcovlr@gmail.com)](mailto:vcolvr@gmail.com) <a href="https://www.linkedin.com/in/vcolvr/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
